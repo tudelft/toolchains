@@ -12,7 +12,7 @@ This repository contains debian packages for toolchains used in Parrot products.
 ## Installation instructions
 ```
 sudo apt-get install libc6
-wget -c https://github.com/tudelft/toolchains/raw/master/parrot-tools-linuxgnutools-2012.03_1.0.0-2_i386.deb
-dpkg -i parrot-tools-linuxgnutools-2012.03_1.0.0-2_i386.deb
+wget -c https://github.com/tudelft/toolchains/raw/master/parrot-tools-linuxgnutools-2012.03_1.0.0-3_i386.deb
+dpkg -i parrot-tools-linuxgnutools-2012.03_1.0.0-3_i386.deb
 ```
 
